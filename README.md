@@ -1,2 +1,6 @@
 # libft_School21_Ecole42
-This project aims to redo in C a library of usual functions that can be used is the next projects of School21 - Ecole42.
+
+Actual Status : finished.
+Result : 100%
+
+This is my libft project from the 42 cursus, need help write me.
